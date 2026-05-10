@@ -1,0 +1,34 @@
+# 忽略大数据集和模型文件
+data/
+models/
+outputs/
+*.pth
+*.safetensors
+*.pt
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 压缩包
+*.zip
+*.tar.gz
+*.rar
+*.7z
