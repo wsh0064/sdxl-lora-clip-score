@@ -2,6 +2,21 @@
 
 本项目用于实现 Stable Diffusion XL (SDXL) 的 LoRA 微调，以及配套的图像生成、质量评估（FID/CLIP Score）、结果可视化全流程。
 
+> ⚠️ **仓库内容说明**：
+> 
+> ✅ **已上传至GitHub**：
+> - `src/` 目录：所有Python源代码（训练、生成、评估、可视化等脚本）
+> - `README.md`：项目说明文档
+> - `.gitignore`：Git忽略配置文件
+> - `requirements.txt`：Python依赖清单
+> 
+> ❌ **未上传（体积过大）**：
+> - `data/`：COCO数据集（约20GB）
+> - `models/`：预训练模型文件（数GB）
+> - `outputs/`：训练和生成的结果文件
+> 
+> 📥 **获取方式**：运行项目内置的自动下载脚本 `python src/download_datasets.py` 即可一键获取所有必需的数据集和预训练模型，支持断点续传。
+
 ## ✨ 核心功能
 
 - 🚀 **SDXL LoRA 微调**：基于COCO数据集快速训练轻量级LoRA权重
