@@ -21,11 +21,6 @@ CLIP/
 │   ├── visualize_results.py         # 可视化对比网格
 │   └── logger_utils.py              # 日志工具
 │
-├── docs/                         # 项目文档
-│   ├── README_LORA.md                # LoRA说明文档
-│   ├── 项目结构说明.md                 # 项目结构说明
-│   └── 基于扩散模型的文本生成图像研究.docx  # 研究论文
-│
 ├── logs/                          # 训练和评估日志
 │   ├── train_lora_sdxl_*.log        # 训练日志
 │   ├── generate_*.log               # 生成日志
