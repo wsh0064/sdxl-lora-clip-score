@@ -2,31 +2,6 @@
 
 本项目用于实现 Stable Diffusion XL (SDXL) 的 LoRA 微调，以及配套的图像生成、质量评估（FID/CLIP Score）、结果可视化全流程。
 
-> ⚠️ **仓库内容说明**：
-> 
-> ✅ **已上传至GitHub**：
-> - `src/` 目录：所有Python源代码（训练、生成、评估、可视化等脚本）
-> - `README.md`：项目说明文档
-> - `.gitignore`：Git忽略配置文件
-> - `requirements.txt`：Python依赖清单
-> 
-> ❌ **未上传（体积过大）**：
-> - `data/`：COCO数据集（约20GB）
-> - `models/`：预训练模型文件（数GB）
-> - `outputs/`：训练和生成的结果文件
-> 
-> 📥 **获取方式**：运行项目内置的自动下载脚本 `python src/download_datasets.py` 即可一键获取所有必需的数据集和预训练模型，支持断点续传。
-
-## ✨ 核心功能
-
-- 🚀 **SDXL LoRA 微调**：基于COCO数据集快速训练轻量级LoRA权重
-- 🎨 **批量图像生成**：支持自定义prompt、推理参数批量生成图像
-- 📊 **质量量化评估**：
-  - FID指标：评估生成图像与真实图像的分布相似度
-  - CLIP Score：评估生成图像与文本prompt的语义匹配度
-- 📈 **结果可视化**：自动生成对比网格图、指标分布曲线、样本量对比分析
-- 🔬 **对比实验**：支持简单/复杂prompt效果对比、不同训练样本量效果对比
-
 ## 📁 项目结构
 
 ```
@@ -46,29 +21,49 @@ CLIP/
 │   ├── visualize_results.py         # 可视化对比网格
 │   └── logger_utils.py              # 日志工具
 │
-├── data/                         # 数据集目录
-│   ├── annotations_trainval2017/     # COCO标注文件
-│   ├── train2017/                    # COCO训练集图片
-│   ├── val2017/                      # COCO验证集图片
-│   └── real_images/                  # 参考真实图片
+├── docs/                         # 项目文档
+│   ├── README_LORA.md                # LoRA说明文档
+│   ├── 项目结构说明.md                 # 项目结构说明
+│   └── 基于扩散模型的文本生成图像研究.docx  # 研究论文
 │
-├── models/                       # 模型权重目录
-│   ├── sdxl_lora_coco/
-│   │   └── pytorch_lora_weights.safetensors  # LoRA权重
-│   └── pt_inception-2015-12-05-6726825d.pth  # FID模型
+├── logs/                          # 训练和评估日志
+│   ├── train_lora_sdxl_*.log        # 训练日志
+│   ├── generate_*.log               # 生成日志
+│   ├── evaluate*.log                # 评估日志
+│   └── ...
 │
-└── outputs/                      # 实验输出目录
-    ├── images/                      # 生成的图像结果
-    ├── results/                     # 评估指标json文件
-    └── visualization/               # 可视化图表
+├── 结果/                          # 历史实验结果
+│   ├── figures/                      # 可视化图表
+│   │   ├── example_comparison_grid.png  # 对比网格图
+│   │   ├── clip_comparison_bar_kde.png  # CLIP分布图
+│   │   └── ...
+│   ├── logs/                        # 实验日志副本
+│   ├── caption_image_mapping_sdxl.json  # 标注映射
+│   ├── evaluation_results_sdxl.json    # 评估结果
+│   └── complex_comparison_results_sdxl.json  # 对比实验结果
+│
+├── README.md                       # 项目说明文档
+├── .gitignore                      # Git忽略配置
+└── requirements.txt                # Python依赖清单
 ```
+
+> ⚠️ **注意**：`data/`（COCO数据集）、`models/`（预训练模型）、`outputs/`（最新输出结果）目录因体积过大未上传至GitHub，可通过运行 `python src/download_datasets.py` 自动下载。
+
+## ✨ 核心功能
+
+- 🚀 **SDXL LoRA 微调**：基于COCO数据集快速训练轻量级LoRA权重
+- 🎨 **批量图像生成**：支持自定义prompt、推理参数批量生成图像
+- 📊 **质量量化评估**：
+  - FID指标：评估生成图像与真实图像的分布相似度
+  - CLIP Score：评估生成图像与文本prompt的语义匹配度
+- 📈 **结果可视化**：自动生成对比网格图、指标分布曲线、样本量对比分析
+- 🔬 **对比实验**：支持简单/复杂prompt效果对比、不同训练样本量效果对比
 
 ## 🛠️ 环境安装
 
 ### 依赖安装
 ```bash
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-pip install diffusers transformers accelerate open_clip_torch pillow matplotlib seaborn tqdm numpy scipy pandas
+pip install -r requirements.txt
 ```
 
 ### 可选优化
@@ -80,7 +75,6 @@ pip install xformers
 ## 🚀 使用指南
 
 ### 0. 自动下载数据集和预训练模型
-> 项目中的 `data/` 和 `models/` 目录已被 `.gitignore` 忽略，无需上传到GitHub，可通过以下命令自动下载所有必需资源：
 ```bash
 python src/download_datasets.py
 ```
