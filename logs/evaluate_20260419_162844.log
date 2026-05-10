@@ -1,0 +1,43 @@
+2026-04-19 16:28:44 [INFO] Log file: logs/evaluate_20260419_162844.log
+2026-04-19 16:28:44 [INFO] ============================================================
+2026-04-19 16:28:44 [INFO] Evaluation: FID + CLIP Score
+2026-04-19 16:28:44 [INFO] ============================================================
+2026-04-19 16:28:44 [INFO] Gen dir:    /data/coding/generated_images_sdxl
+2026-04-19 16:28:44 [INFO] Real dir:   /data/coding/real_images
+2026-04-19 16:28:44 [INFO] Mapping:    /data/coding/caption_image_mapping_sdxl.json
+2026-04-19 16:28:44 [INFO] CLIP model: ViT-B-32 (openai)
+2026-04-19 16:28:44 [INFO] ============================================================
+2026-04-19 16:28:44 [INFO] --- FID Score ---
+2026-04-19 16:28:44 [INFO] Real:      /data/coding/real_images
+2026-04-19 16:28:44 [INFO] Generated: /data/coding/generated_images_sdxl
+2026-04-19 16:28:44 [INFO] Device: cuda  Batch: 10  Dims: 2048
+2026-04-19 16:29:21 [INFO] FID Score: 156.1516
+2026-04-19 16:29:21 [INFO] Loading CLIP: ViT-B-32 (openai)
+2026-04-19 16:29:23 [INFO] --- CLIP Score ---
+2026-04-19 16:29:23 [INFO] Computing scores for 200 pairs...
+2026-04-19 16:29:33 [INFO] CLIP Score mean: 0.3117   std: 0.0292
+2026-04-19 16:29:33 [INFO] Top 5:
+2026-04-19 16:29:33 [INFO]   [0.3975] A wooden wagon with wheels topped with bunches of bananas.
+2026-04-19 16:29:33 [INFO]   [0.3955] A teddy bear in jail clothes posed on top of a trash can.
+2026-04-19 16:29:33 [INFO]   [0.3875] A man in green shirt with cellphone reflecting in a mirror.
+2026-04-19 16:29:33 [INFO]   [0.3794] A white statue holding open a newspaper while sitting on a bench.
+2026-04-19 16:29:33 [INFO]   [0.3787] A cat sitting on top of a banana tree.
+2026-04-19 16:29:33 [INFO] Bottom 5:
+2026-04-19 16:29:33 [INFO]   [0.2612] A toilet that is in a bathroom with the lid up.
+2026-04-19 16:29:33 [INFO]   [0.2585] The cat is laying down squashing one side of its face.
+2026-04-19 16:29:33 [INFO]   [0.2529] A big plane flying low  on a cloudy sky
+2026-04-19 16:29:33 [INFO]   [0.2469] a building that has a small clock at top
+2026-04-19 16:29:33 [INFO]   [0.2415] A bathroom that has a persons hand holding an object.
+2026-04-19 16:29:33 [INFO] --- CLIP Score by Object Count (heuristic) ---
+2026-04-19 16:29:33 [INFO]   1 object :  mean=0.3135  std=0.0308  n=158
+2026-04-19 16:29:33 [INFO]   2 objects:  mean=0.3065  std=0.0204  n=37
+2026-04-19 16:29:33 [INFO]   3+ objects:  mean=0.2940  std=0.0206  n=5
+2026-04-19 16:29:33 [INFO] ============================================================
+2026-04-19 16:29:33 [INFO] Evaluation Summary
+2026-04-19 16:29:33 [INFO] ============================================================
+2026-04-19 16:29:33 [INFO] FID Score:         156.1516
+2026-04-19 16:29:33 [INFO] CLIP Score mean:   0.3117
+2026-04-19 16:29:33 [INFO] CLIP Score std:    0.0292
+2026-04-19 16:29:33 [INFO] Num samples:       200
+2026-04-19 16:29:33 [INFO] Results saved:     /data/coding/evaluation_results_sdxl.json
+2026-04-19 16:29:33 [INFO] ============================================================

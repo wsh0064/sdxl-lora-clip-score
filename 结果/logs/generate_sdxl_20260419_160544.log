@@ -1,0 +1,230 @@
+2026-04-19 16:05:44 [INFO] Log file: logs/generate_sdxl_20260419_160544.log
+2026-04-19 16:05:44 [INFO] ============================================================
+2026-04-19 16:05:44 [INFO] Text-to-Image Generation  (Stable Diffusion XL)
+2026-04-19 16:05:44 [INFO] ============================================================
+2026-04-19 16:05:44 [INFO] Model:           stabilityai/stable-diffusion-xl-base-1.0
+2026-04-19 16:05:44 [INFO] Num samples:     200
+2026-04-19 16:05:44 [INFO] Batch size:      4
+2026-04-19 16:05:44 [INFO] Inference steps: 30
+2026-04-19 16:05:44 [INFO] Image size:      1024x1024
+2026-04-19 16:05:44 [INFO] Guidance scale:  7.5
+2026-04-19 16:05:44 [INFO] Gen dir:         /data/coding/generated_images_sdxl
+2026-04-19 16:05:44 [INFO] Mapping file:    /data/coding/caption_image_mapping_sdxl.json
+2026-04-19 16:05:44 [INFO] Use refiner:     False
+2026-04-19 16:05:44 [INFO] Use xformers:    False
+2026-04-19 16:05:44 [INFO] Compile model:   False
+2026-04-19 16:05:44 [INFO] ============================================================
+2026-04-19 16:05:44 [INFO] [1/4] Sampling 200 captions...
+2026-04-19 16:05:44 [INFO] [1/4] Got 200 captions.
+2026-04-19 16:05:44 [INFO] [2/4] Loading Stable Diffusion XL (FP16)...
+2026-04-19 16:05:44 [INFO] Loading model: stabilityai/stable-diffusion-xl-base-1.0
+2026-04-19 16:05:47 [INFO] [3/4] Generating 200 images...
+2026-04-19 16:06:08 [INFO] [1/200] Saved gen_0000.png | caption: A giraffe running across a grass covered field.
+2026-04-19 16:06:09 [INFO] [2/200] Saved gen_0001.png | caption: Someone is driving a cart near a single engine airplane.
+2026-04-19 16:06:09 [INFO] [3/200] Saved gen_0002.png | caption: a red and black train is coming down the tracks
+2026-04-19 16:06:10 [INFO] [4/200] Saved gen_0003.png | caption: a cow walking on a city street near people 
+2026-04-19 16:06:31 [INFO] [5/200] Saved gen_0004.png | caption: A large yellow dump truck sitting on green lawn.
+2026-04-19 16:06:31 [INFO] [6/200] Saved gen_0005.png | caption: A street with traffic lights and cars at night.
+2026-04-19 16:06:32 [INFO] [7/200] Saved gen_0006.png | caption: A fleet of ships docked on a sandy beach.
+2026-04-19 16:06:33 [INFO] [8/200] Saved gen_0007.png | caption: a pink clock tower rises above a tree line
+2026-04-19 16:06:54 [INFO] [9/200] Saved gen_0008.png | caption: An empty kitchen in a house with a window in the corner.
+2026-04-19 16:06:54 [INFO] [10/200] Saved gen_0009.png | caption: A pizza being made within the oven 
+2026-04-19 16:06:55 [INFO] [11/200] Saved gen_0010.png | caption: A man sitting at a table eating a hamburger and fries.
+2026-04-19 16:06:56 [INFO] [12/200] Saved gen_0011.png | caption: A bathroom with a tub, sinks, lights and a television.
+2026-04-19 16:07:17 [INFO] [13/200] Saved gen_0012.png | caption: A man standing next to a bikes and a motorcycle.
+2026-04-19 16:07:17 [INFO] [14/200] Saved gen_0013.png | caption: Women that are sitting outside on a patio area and smoking c
+2026-04-19 16:07:18 [INFO] [15/200] Saved gen_0014.png | caption: A small white tow truck parked to another small white tow tr
+2026-04-19 16:07:18 [INFO] [16/200] Saved gen_0015.png | caption: two cows outside one laying down and the other standing near
+2026-04-19 16:07:39 [INFO] [17/200] Saved gen_0016.png | caption: A group of friends hanging out in a kitchen together.
+2026-04-19 16:07:40 [INFO] [18/200] Saved gen_0017.png | caption: THERE IS A GROUP OF PEOPLE SITTING AT A TABLE 
+2026-04-19 16:07:40 [INFO] [19/200] Saved gen_0018.png | caption: A bathroom with a white toilet and a sink net to a shower.
+2026-04-19 16:07:41 [INFO] [20/200] Saved gen_0019.png | caption: A microwave oven sitting next to a device near a fence.
+2026-04-19 16:08:02 [INFO] [21/200] Saved gen_0020.png | caption: Outdoor show with sheep prominent on grass field.
+2026-04-19 16:08:03 [INFO] [22/200] Saved gen_0021.png | caption: A man standing in front of a TV holding a Wii game controlle
+2026-04-19 16:08:03 [INFO] [23/200] Saved gen_0022.png | caption: A group of young people playing a game of soccer.
+2026-04-19 16:08:04 [INFO] [24/200] Saved gen_0023.png | caption: A couple of men standing next to train tracks.
+2026-04-19 16:08:25 [INFO] [25/200] Saved gen_0024.png | caption: A plate of cheese bread next to bread sticks and wine.
+2026-04-19 16:08:26 [INFO] [26/200] Saved gen_0025.png | caption: A man holds pizza crust in his mouth.
+2026-04-19 16:08:26 [INFO] [27/200] Saved gen_0026.png | caption: Two green shoes lined up on a bed.
+2026-04-19 16:08:27 [INFO] [28/200] Saved gen_0027.png | caption: A baseball player bobble head next to two computer monitors 
+2026-04-19 16:08:48 [INFO] [29/200] Saved gen_0028.png | caption: A train is making its way down the tracks. 
+2026-04-19 16:08:49 [INFO] [30/200] Saved gen_0029.png | caption: A hand holding a sandwich above a plate.
+2026-04-19 16:08:49 [INFO] [31/200] Saved gen_0030.png | caption: A man is in his skiing gear, while posing for the camera. 
+2026-04-19 16:08:50 [INFO] [32/200] Saved gen_0031.png | caption: The man in the business suit wears a striped blue and white 
+2026-04-19 16:09:11 [INFO] [33/200] Saved gen_0032.png | caption: a giraffe eating food from a food dispenser 
+2026-04-19 16:09:11 [INFO] [34/200] Saved gen_0033.png | caption: PEOPLE WAITING IN LINE TO GET FOOD FROM A FOOD TRUCK
+2026-04-19 16:09:12 [INFO] [35/200] Saved gen_0034.png | caption: A green stand holding several bananas for sale. 
+2026-04-19 16:09:12 [INFO] [36/200] Saved gen_0035.png | caption: A man sitting alone on a park bench in a park.
+2026-04-19 16:09:33 [INFO] [37/200] Saved gen_0036.png | caption: A toilet that is in a bathroom with the lid up.
+2026-04-19 16:09:34 [INFO] [38/200] Saved gen_0037.png | caption: A young person ridding a horse jumps a gate in a competition
+2026-04-19 16:09:35 [INFO] [39/200] Saved gen_0038.png | caption: A group of people that are standing in front of a island.
+2026-04-19 16:09:35 [INFO] [40/200] Saved gen_0039.png | caption: A little league baseball player hits a ball.
+2026-04-19 16:09:57 [INFO] [41/200] Saved gen_0040.png | caption: A white plate of food tha includes meat and vegetables.
+2026-04-19 16:09:57 [INFO] [42/200] Saved gen_0041.png | caption: Various dishes of food sit in bowls on a table.
+2026-04-19 16:09:57 [INFO] [43/200] Saved gen_0042.png | caption: A couple of elephants standing on a lush green forest.
+2026-04-19 16:09:58 [INFO] [44/200] Saved gen_0043.png | caption: A group of giraffe standing next to each other.
+2026-04-19 16:10:19 [INFO] [45/200] Saved gen_0044.png | caption: A person on a surfboard in the water.
+2026-04-19 16:10:20 [INFO] [46/200] Saved gen_0045.png | caption: A man in green shirt with cellphone reflecting in a mirror.
+2026-04-19 16:10:20 [INFO] [47/200] Saved gen_0046.png | caption: A train parked at a train stop next to another train.
+2026-04-19 16:10:21 [INFO] [48/200] Saved gen_0047.png | caption: a child riding a skate board on a city street 
+2026-04-19 16:10:42 [INFO] [49/200] Saved gen_0048.png | caption: The plane was flying high near the flag in the air
+2026-04-19 16:10:43 [INFO] [50/200] Saved gen_0049.png | caption: The painting is of a vase of flowers on a table.
+2026-04-19 16:10:43 [INFO] [51/200] Saved gen_0050.png | caption: two people in a wooden boat with sails on some water
+2026-04-19 16:10:44 [INFO] [52/200] Saved gen_0051.png | caption: A wooden wagon with wheels topped with bunches of bananas.
+2026-04-19 16:11:05 [INFO] [53/200] Saved gen_0052.png | caption: there is a young girl putting food in to a oven
+2026-04-19 16:11:06 [INFO] [54/200] Saved gen_0053.png | caption: A woman sitting on top of a park bench in a field.
+2026-04-19 16:11:06 [INFO] [55/200] Saved gen_0054.png | caption: A white sink in a corner underneath a small mirror and light
+2026-04-19 16:11:07 [INFO] [56/200] Saved gen_0055.png | caption: A grey and white dog sitting in the passenger side of a car.
+2026-04-19 16:11:28 [INFO] [57/200] Saved gen_0056.png | caption: A crowd of people riding on the back of a red and white boat
+2026-04-19 16:11:28 [INFO] [58/200] Saved gen_0057.png | caption: Elephant displayed in window of city building near roadway.
+2026-04-19 16:11:29 [INFO] [59/200] Saved gen_0058.png | caption: a lady that has a bowl in her hand
+2026-04-19 16:11:29 [INFO] [60/200] Saved gen_0059.png | caption: a small calf nursing a cow in a pasture
+2026-04-19 16:11:50 [INFO] [61/200] Saved gen_0060.png | caption: Two tall giraffes graze on bushes in an open field.
+2026-04-19 16:11:51 [INFO] [62/200] Saved gen_0061.png | caption: A piece of bread with a hot dog in the middle is shown.
+2026-04-19 16:11:51 [INFO] [63/200] Saved gen_0062.png | caption: Tug boats do a good job handling water emergencies.
+2026-04-19 16:11:52 [INFO] [64/200] Saved gen_0063.png | caption: A very nice cake dish with some pastries in it.
+2026-04-19 16:12:13 [INFO] [65/200] Saved gen_0064.png | caption: Belgium waffle loaded with bananas topped with powdered suga
+2026-04-19 16:12:14 [INFO] [66/200] Saved gen_0065.png | caption: Two giraffe moving very quickly in the woods.
+2026-04-19 16:12:14 [INFO] [67/200] Saved gen_0066.png | caption: A person riding a horse in an empty area of dried grass.
+2026-04-19 16:12:15 [INFO] [68/200] Saved gen_0067.png | caption: Baseball player in blue and white uniform swinging at a ball
+2026-04-19 16:12:36 [INFO] [69/200] Saved gen_0068.png | caption: Man sitting at a picnic table using a laptop shaded by an um
+2026-04-19 16:12:36 [INFO] [70/200] Saved gen_0069.png | caption: A small dog on a harness laying on top of a sandy beach.
+2026-04-19 16:12:37 [INFO] [71/200] Saved gen_0070.png | caption: A bathroom with a lot of items near the sink and counter.
+2026-04-19 16:12:37 [INFO] [72/200] Saved gen_0071.png | caption: A teddy bear and a stuffed monkey sit side by side.
+2026-04-19 16:12:58 [INFO] [73/200] Saved gen_0072.png | caption: A train that is on a rail over a bridge.
+2026-04-19 16:12:59 [INFO] [74/200] Saved gen_0073.png | caption: A desktop computer with it's monitor sitting on it's side.
+2026-04-19 16:12:59 [INFO] [75/200] Saved gen_0074.png | caption: A row of white teddy bears on shelf next to DVDs.
+2026-04-19 16:12:59 [INFO] [76/200] Saved gen_0075.png | caption: A rusted out train engine sitting next to a green forest.
+2026-04-19 16:13:21 [INFO] [77/200] Saved gen_0076.png | caption: a couple of sandwiches are on a pan
+2026-04-19 16:13:21 [INFO] [78/200] Saved gen_0077.png | caption: A man riding a skateboard over a rope.
+2026-04-19 16:13:21 [INFO] [79/200] Saved gen_0078.png | caption: A yellow and red train traveling down train tracks.
+2026-04-19 16:13:22 [INFO] [80/200] Saved gen_0079.png | caption: A vase filled  with yellow flowers next to a window.
+2026-04-19 16:13:43 [INFO] [81/200] Saved gen_0080.png | caption: A piece of luggage is ready to go with cold wear on top for 
+2026-04-19 16:13:44 [INFO] [82/200] Saved gen_0081.png | caption: A peeled banana on a table next to an unpeeled banana.
+2026-04-19 16:13:44 [INFO] [83/200] Saved gen_0082.png | caption: A colorful plane flying over head and telephone wires
+2026-04-19 16:13:45 [INFO] [84/200] Saved gen_0083.png | caption: A tan utility truck with a blue interior.
+2026-04-19 16:14:06 [INFO] [85/200] Saved gen_0084.png | caption: rear view mirror reflection showing a dog in the back seat
+2026-04-19 16:14:07 [INFO] [86/200] Saved gen_0085.png | caption: A pair of bears climb up in a tree.
+2026-04-19 16:14:07 [INFO] [87/200] Saved gen_0086.png | caption: Computer desk setup with monitor, wireless keyboard, and oth
+2026-04-19 16:14:08 [INFO] [88/200] Saved gen_0087.png | caption: A cat sitting on top of a banana tree.
+2026-04-19 16:14:29 [INFO] [89/200] Saved gen_0088.png | caption: A big plane flying low  on a cloudy sky
+2026-04-19 16:14:29 [INFO] [90/200] Saved gen_0089.png | caption: Guy pedals a bike through a small village.
+2026-04-19 16:14:30 [INFO] [91/200] Saved gen_0090.png | caption: a picture of a cellphone on a cellphone
+2026-04-19 16:14:31 [INFO] [92/200] Saved gen_0091.png | caption: A person that is doing a trick in the air.
+2026-04-19 16:14:52 [INFO] [93/200] Saved gen_0092.png | caption: A woman holding an umbrella while walking in the rain.
+2026-04-19 16:14:52 [INFO] [94/200] Saved gen_0093.png | caption: A man reaching into a freezer while standing next to a woman
+2026-04-19 16:14:53 [INFO] [95/200] Saved gen_0094.png | caption: A man is playing tennis, the ball is coming toward him.
+2026-04-19 16:14:53 [INFO] [96/200] Saved gen_0095.png | caption: A person riding a wave on top of a surfboard.
+2026-04-19 16:15:15 [INFO] [97/200] Saved gen_0096.png | caption: A fire hydrant and some cars on the side of the street.
+2026-04-19 16:15:15 [INFO] [98/200] Saved gen_0097.png | caption: A cat sitting in front of a flat screen TV.
+2026-04-19 16:15:16 [INFO] [99/200] Saved gen_0098.png | caption: A black and white image of a shipyard with some boats. 
+2026-04-19 16:15:17 [INFO] [100/200] Saved gen_0099.png | caption: A laptop computer sitting on top of a wooden table.
+2026-04-19 16:15:38 [INFO] [101/200] Saved gen_0100.png | caption: A woman holding a Hello Kitty phone on her hands.
+2026-04-19 16:15:38 [INFO] [102/200] Saved gen_0101.png | caption: A herd of elephants standing on top of a dirt road.
+2026-04-19 16:15:39 [INFO] [103/200] Saved gen_0102.png | caption: Ivy is growing up the walls of a building.
+2026-04-19 16:15:39 [INFO] [104/200] Saved gen_0103.png | caption: A man in bowler hat and lab coat by people in a tv frame.
+2026-04-19 16:16:01 [INFO] [105/200] Saved gen_0104.png | caption: A very tall brick clock tower with a clock on each of it's s
+2026-04-19 16:16:01 [INFO] [106/200] Saved gen_0105.png | caption: Small pizza sits on a plate on a restaurant table. 
+2026-04-19 16:16:02 [INFO] [107/200] Saved gen_0106.png | caption: a lady that is on some skies on some snow
+2026-04-19 16:16:02 [INFO] [108/200] Saved gen_0107.png | caption: A dog and cat lying  together on an orange couch. 
+2026-04-19 16:16:24 [INFO] [109/200] Saved gen_0108.png | caption: A dog wearing a hat standing on some grass.
+2026-04-19 16:16:24 [INFO] [110/200] Saved gen_0109.png | caption: A security officer using a segway as a footrest
+2026-04-19 16:16:25 [INFO] [111/200] Saved gen_0110.png | caption: A teddy bear sitting on a blue chair.
+2026-04-19 16:16:26 [INFO] [112/200] Saved gen_0111.png | caption: A man riding a motorcycle on the side of a road.
+2026-04-19 16:16:47 [INFO] [113/200] Saved gen_0112.png | caption: A large white kitchen range with gold towels on the front.
+2026-04-19 16:16:47 [INFO] [114/200] Saved gen_0113.png | caption: Cars and trucks stopped at an intersection at twilight.
+2026-04-19 16:16:48 [INFO] [115/200] Saved gen_0114.png | caption: A person sitting on a bench in a park.
+2026-04-19 16:16:49 [INFO] [116/200] Saved gen_0115.png | caption: A wall covered in graffiti next to a sidewalk.
+2026-04-19 16:17:10 [INFO] [117/200] Saved gen_0116.png | caption: A man riding a wave on top of a white surfboard.
+2026-04-19 16:17:11 [INFO] [118/200] Saved gen_0117.png | caption: A person sitting at a wooden table holding an electronic dev
+2026-04-19 16:17:11 [INFO] [119/200] Saved gen_0118.png | caption: Street sign painted on a road that looks like a bicycle. 
+2026-04-19 16:17:12 [INFO] [120/200] Saved gen_0119.png | caption: A man is skiing in mid jump onto a ramp.
+2026-04-19 16:17:33 [INFO] [121/200] Saved gen_0120.png | caption: there is a woman laying in a bed using a lap top
+2026-04-19 16:17:33 [INFO] [122/200] Saved gen_0121.png | caption: The dessert has been split into two halves on the plate.
+2026-04-19 16:17:34 [INFO] [123/200] Saved gen_0122.png | caption: Three people are playing with a red kick ball.
+2026-04-19 16:17:34 [INFO] [124/200] Saved gen_0123.png | caption: Young people are flying kites at a park.
+2026-04-19 16:17:56 [INFO] [125/200] Saved gen_0124.png | caption: Couple on sailboat with dog on open waters.
+2026-04-19 16:17:56 [INFO] [126/200] Saved gen_0125.png | caption: A man swinging a tennis racket at a tennis ball.
+2026-04-19 16:17:57 [INFO] [127/200] Saved gen_0126.png | caption: A commercial bathroom stall with empty toilet paper holders.
+2026-04-19 16:17:57 [INFO] [128/200] Saved gen_0127.png | caption: AN IMAGE OF A FIRED HYDRANT ON THE STREET
+2026-04-19 16:18:18 [INFO] [129/200] Saved gen_0128.png | caption: The refrigerators are lined up against the wall.
+2026-04-19 16:18:19 [INFO] [130/200] Saved gen_0129.png | caption: A herd of cows standing on a grass covered hillside.
+2026-04-19 16:18:20 [INFO] [131/200] Saved gen_0130.png | caption: A baseball player is winding up for the pitch.
+2026-04-19 16:18:20 [INFO] [132/200] Saved gen_0131.png | caption: Three giraffes standing up in a field eating leaves off of t
+2026-04-19 16:18:41 [INFO] [133/200] Saved gen_0132.png | caption: A herd of black and white cows eating dry grass.
+2026-04-19 16:18:41 [INFO] [134/200] Saved gen_0133.png | caption: A hot dog with mustard is next to a bottle of soda.
+2026-04-19 16:18:42 [INFO] [135/200] Saved gen_0134.png | caption: A large white bus sitting in front of a tall building.
+2026-04-19 16:18:43 [INFO] [136/200] Saved gen_0135.png | caption: A small bed with lots of bottles underneath
+2026-04-19 16:19:04 [INFO] [137/200] Saved gen_0136.png | caption: A glass bowl filled with oranges on a table.
+2026-04-19 16:19:04 [INFO] [138/200] Saved gen_0137.png | caption: A very cute cat laying on a rug.
+2026-04-19 16:19:05 [INFO] [139/200] Saved gen_0138.png | caption: A man with a tennis racket and ball is on a tennis court.
+2026-04-19 16:19:05 [INFO] [140/200] Saved gen_0139.png | caption: The two young girls are petting the two goats.
+2026-04-19 16:19:27 [INFO] [141/200] Saved gen_0140.png | caption: A teddy bear in jail clothes posed on top of a trash can.
+2026-04-19 16:19:27 [INFO] [142/200] Saved gen_0141.png | caption: a yellow and brown fire hydrant on the side of the road
+2026-04-19 16:19:27 [INFO] [143/200] Saved gen_0142.png | caption: Two women playing with a Frisbee in a field.
+2026-04-19 16:19:28 [INFO] [144/200] Saved gen_0143.png | caption: A bathroom that has a persons hand holding an object.
+2026-04-19 16:19:49 [INFO] [145/200] Saved gen_0144.png | caption: a number of giraffes near one another 
+2026-04-19 16:19:50 [INFO] [146/200] Saved gen_0145.png | caption: Horse in fenced pasture with others grazing on grasses.
+2026-04-19 16:19:50 [INFO] [147/200] Saved gen_0146.png | caption: People crossing a street in front of a taxi and tour bus.
+2026-04-19 16:19:51 [INFO] [148/200] Saved gen_0147.png | caption: A smart phone, digital camera and mobile phone on display.
+2026-04-19 16:20:12 [INFO] [149/200] Saved gen_0148.png | caption: A hand with finger on a blender filled with liquid.
+2026-04-19 16:20:13 [INFO] [150/200] Saved gen_0149.png | caption: A beautiful dessert waiting to be shared by two people
+2026-04-19 16:20:13 [INFO] [151/200] Saved gen_0150.png | caption: A group of people eating a meal at a table.
+2026-04-19 16:20:14 [INFO] [152/200] Saved gen_0151.png | caption: A group of people riding horses down a small road.
+2026-04-19 16:20:35 [INFO] [153/200] Saved gen_0152.png | caption: A man riding a wave on top of a surfboard.
+2026-04-19 16:20:36 [INFO] [154/200] Saved gen_0153.png | caption: A dog is standing next to a toilet playing with tissue
+2026-04-19 16:20:36 [INFO] [155/200] Saved gen_0154.png | caption: Image of a street approaching California 138 with stop sign 
+2026-04-19 16:20:37 [INFO] [156/200] Saved gen_0155.png | caption: Different views of a man who is skateboarding.
+2026-04-19 16:20:58 [INFO] [157/200] Saved gen_0156.png | caption: A brown desk with a wooden chair in a classroom.
+2026-04-19 16:20:59 [INFO] [158/200] Saved gen_0157.png | caption: A colorful train sits on the tracks in the sunshine.
+2026-04-19 16:20:59 [INFO] [159/200] Saved gen_0158.png | caption: A white refrigerator and a counter in a room.
+2026-04-19 16:21:00 [INFO] [160/200] Saved gen_0159.png | caption: A couple of large elephants standing next to a baby elephant
+2026-04-19 16:21:21 [INFO] [161/200] Saved gen_0160.png | caption: A man playing Wii on a large flat screen tv 
+2026-04-19 16:21:21 [INFO] [162/200] Saved gen_0161.png | caption: A man sitting on top of a bench with a newspaper.
+2026-04-19 16:21:22 [INFO] [163/200] Saved gen_0162.png | caption: a man that is surfing on some water
+2026-04-19 16:21:23 [INFO] [164/200] Saved gen_0163.png | caption: A person on a motor bike travels around a sharp corner.
+2026-04-19 16:21:44 [INFO] [165/200] Saved gen_0164.png | caption: a large clock tower structure lit up in the early night sky
+2026-04-19 16:21:44 [INFO] [166/200] Saved gen_0165.png | caption: A double-decker bus is parked in a large field.
+2026-04-19 16:21:45 [INFO] [167/200] Saved gen_0166.png | caption: A yellow commuter bus leaving a bus stop at sunset
+2026-04-19 16:21:45 [INFO] [168/200] Saved gen_0167.png | caption: A child holding chocolate donut with both hands.
+2026-04-19 16:22:06 [INFO] [169/200] Saved gen_0168.png | caption: Little boys playing on a baseball field in baseball uniforms
+2026-04-19 16:22:07 [INFO] [170/200] Saved gen_0169.png | caption: A group of animals standing on top of a grass covered field.
+2026-04-19 16:22:08 [INFO] [171/200] Saved gen_0170.png | caption: A pair of shoes flips over a skateboard on a road. 
+2026-04-19 16:22:08 [INFO] [172/200] Saved gen_0171.png | caption: The ingredients are on the kitchen counter next to the blend
+2026-04-19 16:22:29 [INFO] [173/200] Saved gen_0172.png | caption: a couple of people sitting around a table 
+2026-04-19 16:22:30 [INFO] [174/200] Saved gen_0173.png | caption: A table topped with three trays filled with cakes and desser
+2026-04-19 16:22:31 [INFO] [175/200] Saved gen_0174.png | caption: an image of a cat sitting on top of the desk area
+2026-04-19 16:22:31 [INFO] [176/200] Saved gen_0175.png | caption: Closeup of a decorative gold and grey clock.
+2026-04-19 16:22:52 [INFO] [177/200] Saved gen_0176.png | caption: A man is riding a horse in an open field.
+2026-04-19 16:22:53 [INFO] [178/200] Saved gen_0177.png | caption: A ballplayer on deck practicing for his turn at bat
+2026-04-19 16:22:53 [INFO] [179/200] Saved gen_0178.png | caption: two people riding surf boards on a wave
+2026-04-19 16:22:54 [INFO] [180/200] Saved gen_0179.png | caption: A person on skateboard skating on the pavement.
+2026-04-19 16:23:15 [INFO] [181/200] Saved gen_0180.png | caption: A man and his surfboard survey a stormy sea
+2026-04-19 16:23:16 [INFO] [182/200] Saved gen_0181.png | caption: A phone mounted to a wall next to a doorway.
+2026-04-19 16:23:17 [INFO] [183/200] Saved gen_0182.png | caption: Two tennis players shaking hands on the court 
+2026-04-19 16:23:17 [INFO] [184/200] Saved gen_0183.png | caption: A white statue holding open a newspaper while sitting on a b
+2026-04-19 16:23:39 [INFO] [185/200] Saved gen_0184.png | caption: The cat is laying down squashing one side of its face.
+2026-04-19 16:23:39 [INFO] [186/200] Saved gen_0185.png | caption: A herd of elephants walking down a river with people riding 
+2026-04-19 16:23:40 [INFO] [187/200] Saved gen_0186.png | caption: A toilet and bathtub in a dark room with abnormal plumbing.
+2026-04-19 16:23:40 [INFO] [188/200] Saved gen_0187.png | caption: A woman standing next to a young man near a pile of fruit.
+2026-04-19 16:24:01 [INFO] [189/200] Saved gen_0188.png | caption: A laptop computer sitting on a desk next to a desktop monito
+2026-04-19 16:24:02 [INFO] [190/200] Saved gen_0189.png | caption: a building that has a small clock at top
+2026-04-19 16:24:03 [INFO] [191/200] Saved gen_0190.png | caption: A young girl watches a laptop on a bed. 
+2026-04-19 16:24:03 [INFO] [192/200] Saved gen_0191.png | caption: A black and white cow stands in a paddock with firewood in t
+2026-04-19 16:24:24 [INFO] [193/200] Saved gen_0192.png | caption: A baseball player holding a baseball bat is getting filmed b
+2026-04-19 16:24:25 [INFO] [194/200] Saved gen_0193.png | caption: A blue lighted bridge over water at night.
+2026-04-19 16:24:26 [INFO] [195/200] Saved gen_0194.png | caption: An older picture of a large kitchen with white appliances.
+2026-04-19 16:24:26 [INFO] [196/200] Saved gen_0195.png | caption: A white kitchen with stove, sink, and refrigerator.
+2026-04-19 16:24:47 [INFO] [197/200] Saved gen_0196.png | caption: a plate with bacon, eggs and hamburger topped with bananas
+2026-04-19 16:24:48 [INFO] [198/200] Saved gen_0197.png | caption: A train traveling down tracks next to a  brick building.
+2026-04-19 16:24:49 [INFO] [199/200] Saved gen_0198.png | caption: A large jetliner sitting on top of an airport runway.
+2026-04-19 16:24:49 [INFO] [200/200] Saved gen_0199.png | caption: a person wearing a suit and tie next to a couch
+2026-04-19 16:24:49 [INFO] [4/4] Copying real images...
+2026-04-19 16:26:32 [INFO] Copied 200/200 real images to /data/coding/real_images
+2026-04-19 16:26:32 [INFO] Mapping saved: /data/coding/caption_image_mapping_sdxl.json
+2026-04-19 16:26:32 [INFO] ============================================================
+2026-04-19 16:26:32 [INFO] Done!
+2026-04-19 16:26:32 [INFO] Generated: /data/coding/generated_images_sdxl
+2026-04-19 16:26:32 [INFO] Real:      /data/coding/real_images
+2026-04-19 16:26:32 [INFO] Mapping:   /data/coding/caption_image_mapping_sdxl.json
+2026-04-19 16:26:32 [INFO] ============================================================

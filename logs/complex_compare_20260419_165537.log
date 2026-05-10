@@ -1,0 +1,36 @@
+2026-04-19 16:55:37 [INFO] Log file: logs/complex_compare_20260419_165537.log
+2026-04-19 16:55:37 [INFO] ============================================================
+2026-04-19 16:55:37 [INFO] Complex Caption Comparison Experiment (SDXL)
+2026-04-19 16:55:37 [INFO] ============================================================
+2026-04-19 16:55:37 [INFO] Use refiner: True
+2026-04-19 16:55:37 [INFO] Use xformers: False
+2026-04-19 16:55:37 [INFO] Use torch.compile: False
+2026-04-19 16:55:37 [INFO] Images per group: 50
+2026-04-19 16:55:37 [INFO] Inference steps: 30
+2026-04-19 16:55:37 [INFO] [1/4] Loading and selecting captions...
+2026-04-19 16:55:37 [INFO] Simple captions (len <= 40): 3048 available, using 50
+2026-04-19 16:55:37 [INFO] Complex captions (len >= 80): 759 available, using 50
+2026-04-19 16:55:37 [INFO] Sample simple captions:
+2026-04-19 16:55:37 [INFO]   A red double decker bus on a street.
+2026-04-19 16:55:37 [INFO]   a pot of food on a stove with broccoli
+2026-04-19 16:55:37 [INFO]   A skater rides along a steep red wall.
+2026-04-19 16:55:37 [INFO] Sample complex captions:
+2026-04-19 16:55:37 [INFO]   Several sheep are in a pen as some kids stand next to it while one boy has his hand on one of the sheep's head.
+2026-04-19 16:55:37 [INFO]   A rodeo area with men in cowboy hats, rodeo clowns and an audience in the stands.
+2026-04-19 16:55:37 [INFO]   A giant Donald Duck standing in front of a Christmas Tree with lots of toys around it.
+2026-04-19 16:55:37 [INFO] [1/4] Selected 50 simple, 50 complex
+2026-04-19 16:55:37 [INFO] [2/4] Loading model...
+2026-04-19 16:55:37 [INFO] Loading base model stabilityai/stable-diffusion-xl-base-1.0 (FP16)...
+2026-04-19 16:55:40 [INFO] Loading refiner model stabilityai/stable-diffusion-xl-refiner-1.0 (FP16)...
+2026-04-19 16:55:42 [INFO] Refiner loaded
+2026-04-19 16:55:42 [INFO] [3/4] Generating images...
+2026-04-19 17:05:45 [INFO] [4/4] Computing CLIP Scores...
+2026-04-19 17:07:59 [INFO] ============================================================
+2026-04-19 17:07:59 [INFO] Comparison Summary
+2026-04-19 17:07:59 [INFO] ============================================================
+2026-04-19 17:07:59 [INFO] Simple  captions CLIP Score: 0.3062 ± 0.0247
+2026-04-19 17:07:59 [INFO] Complex captions CLIP Score: 0.3112 ± 0.0277
+2026-04-19 17:07:59 [INFO] Delta: +0.0050  (+1.63%)
+2026-04-19 17:07:59 [INFO] => 复杂描述 CLIP Score 上升 1.63%（更丰富的描述提升了图文对齐）
+2026-04-19 17:07:59 [INFO] Results saved: /data/coding/complex_comparison_results_sdxl.json
+2026-04-19 17:07:59 [INFO] ============================================================

@@ -1,0 +1,520 @@
+{
+  "simple": {
+    "num": 50,
+    "caption_max_len": 40,
+    "clip_score_mean": 0.3062,
+    "clip_score_std": 0.0247,
+    "pairs": [
+      {
+        "caption": "A red double decker bus on a street.",
+        "gen_file": "simple_000.png",
+        "clip_score": 0.3069
+      },
+      {
+        "caption": "a pot of food on a stove with broccoli",
+        "gen_file": "simple_001.png",
+        "clip_score": 0.3174
+      },
+      {
+        "caption": "A skater rides along a steep red wall.",
+        "gen_file": "simple_002.png",
+        "clip_score": 0.3665
+      },
+      {
+        "caption": "A very big city bus on a big street.",
+        "gen_file": "simple_003.png",
+        "clip_score": 0.2837
+      },
+      {
+        "caption": "A pizza that is sitting on a platter.",
+        "gen_file": "simple_004.png",
+        "clip_score": 0.3047
+      },
+      {
+        "caption": "A man in white grinding on a skateboard.",
+        "gen_file": "simple_005.png",
+        "clip_score": 0.3376
+      },
+      {
+        "caption": "a close up of a foam box of food",
+        "gen_file": "simple_006.png",
+        "clip_score": 0.2874
+      },
+      {
+        "caption": "A cool doggy sitting on the couch.",
+        "gen_file": "simple_007.png",
+        "clip_score": 0.2957
+      },
+      {
+        "caption": "A herd of zebra in a grass field.",
+        "gen_file": "simple_008.png",
+        "clip_score": 0.3635
+      },
+      {
+        "caption": "Two people trying to surf on the ocean.",
+        "gen_file": "simple_009.png",
+        "clip_score": 0.3083
+      },
+      {
+        "caption": "A banana placed on a phone on a table.",
+        "gen_file": "simple_010.png",
+        "clip_score": 0.3481
+      },
+      {
+        "caption": "A woman riding a surfboard on a wave.",
+        "gen_file": "simple_011.png",
+        "clip_score": 0.3267
+      },
+      {
+        "caption": "A sheep is being carried up a hill.",
+        "gen_file": "simple_012.png",
+        "clip_score": 0.3125
+      },
+      {
+        "caption": "A TV mounted in a cow on a wall.",
+        "gen_file": "simple_013.png",
+        "clip_score": 0.3828
+      },
+      {
+        "caption": "A huge clock on the side of a building.",
+        "gen_file": "simple_014.png",
+        "clip_score": 0.3169
+      },
+      {
+        "caption": "a baseman ready to put the runner out",
+        "gen_file": "simple_015.png",
+        "clip_score": 0.2876
+      },
+      {
+        "caption": "Two dogs sleep on the blankets of a bed.",
+        "gen_file": "simple_016.png",
+        "clip_score": 0.3
+      },
+      {
+        "caption": "A plane site on a grassy country runway.",
+        "gen_file": "simple_017.png",
+        "clip_score": 0.3025
+      },
+      {
+        "caption": "Two guys playing a game on the WII.",
+        "gen_file": "simple_018.png",
+        "clip_score": 0.3086
+      },
+      {
+        "caption": "Two people playing wii in a living room.",
+        "gen_file": "simple_019.png",
+        "clip_score": 0.2993
+      },
+      {
+        "caption": "A man wearing a hat and a gray jacket.",
+        "gen_file": "simple_020.png",
+        "clip_score": 0.2969
+      },
+      {
+        "caption": "A cat looking at a tv monitor on a desk",
+        "gen_file": "simple_021.png",
+        "clip_score": 0.3337
+      },
+      {
+        "caption": "A bird that is perched in a tree.",
+        "gen_file": "simple_022.png",
+        "clip_score": 0.29
+      },
+      {
+        "caption": "A yellow boat with people is in a canal.",
+        "gen_file": "simple_023.png",
+        "clip_score": 0.2766
+      },
+      {
+        "caption": "a couple of signs that are on a street",
+        "gen_file": "simple_024.png",
+        "clip_score": 0.2812
+      },
+      {
+        "caption": "A fake stop sign that is in the grass.",
+        "gen_file": "simple_025.png",
+        "clip_score": 0.2976
+      },
+      {
+        "caption": "A Northumbria bus is parked in a field.",
+        "gen_file": "simple_026.png",
+        "clip_score": 0.3013
+      },
+      {
+        "caption": "a wet city street with cars on it",
+        "gen_file": "simple_027.png",
+        "clip_score": 0.3193
+      },
+      {
+        "caption": "A cave is situated in a rocky wall.",
+        "gen_file": "simple_028.png",
+        "clip_score": 0.3064
+      },
+      {
+        "caption": "a couple of bears stand on a tree log",
+        "gen_file": "simple_029.png",
+        "clip_score": 0.3196
+      },
+      {
+        "caption": "an image of a man slicing a small pizza",
+        "gen_file": "simple_030.png",
+        "clip_score": 0.3025
+      },
+      {
+        "caption": "A MAN IS SKIING ON THE SNOW SLOPES",
+        "gen_file": "simple_031.png",
+        "clip_score": 0.3125
+      },
+      {
+        "caption": "A transit center all lit up at night.",
+        "gen_file": "simple_032.png",
+        "clip_score": 0.2905
+      },
+      {
+        "caption": "A dog is running on the beach sand.",
+        "gen_file": "simple_033.png",
+        "clip_score": 0.3201
+      },
+      {
+        "caption": "A girl skis in a lot of snow.",
+        "gen_file": "simple_034.png",
+        "clip_score": 0.301
+      },
+      {
+        "caption": "A cell phone and game case on a bed.",
+        "gen_file": "simple_035.png",
+        "clip_score": 0.3064
+      },
+      {
+        "caption": "A man standing in a boat near shore",
+        "gen_file": "simple_036.png",
+        "clip_score": 0.3179
+      },
+      {
+        "caption": "A cat that is laying on a couch.",
+        "gen_file": "simple_037.png",
+        "clip_score": 0.2783
+      },
+      {
+        "caption": "Dusk is about to enter behind the city.",
+        "gen_file": "simple_038.png",
+        "clip_score": 0.262
+      },
+      {
+        "caption": "A man making a pizza in a kitchen.",
+        "gen_file": "simple_039.png",
+        "clip_score": 0.2983
+      },
+      {
+        "caption": "a girl playing tennis with a bad knee",
+        "gen_file": "simple_040.png",
+        "clip_score": 0.2849
+      },
+      {
+        "caption": "A child sits on a bench at a playground.",
+        "gen_file": "simple_041.png",
+        "clip_score": 0.3306
+      },
+      {
+        "caption": "A train is sitting in a train station.",
+        "gen_file": "simple_042.png",
+        "clip_score": 0.28
+      },
+      {
+        "caption": "A bathroom with two urinals and a sink.",
+        "gen_file": "simple_043.png",
+        "clip_score": 0.2666
+      },
+      {
+        "caption": "A surfer coming in on a large wave.",
+        "gen_file": "simple_044.png",
+        "clip_score": 0.2966
+      },
+      {
+        "caption": "a close up of food on a plate on a table",
+        "gen_file": "simple_045.png",
+        "clip_score": 0.2634
+      },
+      {
+        "caption": "A stop sign gives traffic a frown face.",
+        "gen_file": "simple_046.png",
+        "clip_score": 0.2771
+      },
+      {
+        "caption": "A sandwich is cut sitting on a plate.",
+        "gen_file": "simple_047.png",
+        "clip_score": 0.3162
+      },
+      {
+        "caption": "Van drives by a bus sitting at the curb",
+        "gen_file": "simple_048.png",
+        "clip_score": 0.304
+      },
+      {
+        "caption": "A bunch of kids are posing with santa",
+        "gen_file": "simple_049.png",
+        "clip_score": 0.3208
+      }
+    ]
+  },
+  "complex": {
+    "num": 50,
+    "caption_min_len": 80,
+    "clip_score_mean": 0.3112,
+    "clip_score_std": 0.0277,
+    "pairs": [
+      {
+        "caption": "Several sheep are in a pen as some kids stand next to it while one boy has his hand on one of the sheep's head.",
+        "gen_file": "complex_000.png",
+        "clip_score": 0.342
+      },
+      {
+        "caption": "A rodeo area with men in cowboy hats, rodeo clowns and an audience in the stands.",
+        "gen_file": "complex_001.png",
+        "clip_score": 0.3132
+      },
+      {
+        "caption": "A giant Donald Duck standing in front of a Christmas Tree with lots of toys around it.",
+        "gen_file": "complex_002.png",
+        "clip_score": 0.366
+      },
+      {
+        "caption": "A suitcase as well as other types of luggage are propped up on a carpeted floor indoors.",
+        "gen_file": "complex_003.png",
+        "clip_score": 0.3027
+      },
+      {
+        "caption": "A plate of food which includes onions, tomato, lettuce, sauce, fries, and a sandwich.",
+        "gen_file": "complex_004.png",
+        "clip_score": 0.3088
+      },
+      {
+        "caption": "The room is crowded with many things including chairs, a bicycle, and a table with cups on it.",
+        "gen_file": "complex_005.png",
+        "clip_score": 0.3086
+      },
+      {
+        "caption": "Overview of a pot of vegetable soup with wooden spoon on a stainless steel stove top.",
+        "gen_file": "complex_006.png",
+        "clip_score": 0.3127
+      },
+      {
+        "caption": "a train stopped at a train station with individuals walking alongside the train.",
+        "gen_file": "complex_007.png",
+        "clip_score": 0.2524
+      },
+      {
+        "caption": "An old clock tower stands near a bridge and other large old, medieval type structures.",
+        "gen_file": "complex_008.png",
+        "clip_score": 0.302
+      },
+      {
+        "caption": "A man walks up to where surfboards are propped up against a wall and wetsuits are hanging on a rack.",
+        "gen_file": "complex_009.png",
+        "clip_score": 0.3127
+      },
+      {
+        "caption": "a country kitchen has a blue, wooden table, open shelves and white counters and a white sink.",
+        "gen_file": "complex_010.png",
+        "clip_score": 0.332
+      },
+      {
+        "caption": "An illuminated floral display forms the centerpiece of the arrangement in this close up of a dining room table setting.",
+        "gen_file": "complex_011.png",
+        "clip_score": 0.3301
+      },
+      {
+        "caption": "A dog on a leash looks out the rear window while sitting next to a male passenger.",
+        "gen_file": "complex_012.png",
+        "clip_score": 0.2822
+      },
+      {
+        "caption": "This is a man fixing his kite with a woman on his left and a man to his back right.",
+        "gen_file": "complex_013.png",
+        "clip_score": 0.3181
+      },
+      {
+        "caption": "A pen and several personal hair care items sit side by side on a blanketed surface.",
+        "gen_file": "complex_014.png",
+        "clip_score": 0.3
+      },
+      {
+        "caption": "The dork with the earring stands next to the Asian beauty who is way out of his league.",
+        "gen_file": "complex_015.png",
+        "clip_score": 0.259
+      },
+      {
+        "caption": "A student works on an academic paper at her desk, computer screen glowing in the background.",
+        "gen_file": "complex_016.png",
+        "clip_score": 0.2747
+      },
+      {
+        "caption": "A parking meter sitting next to a street with a very odd looking building next to it.",
+        "gen_file": "complex_017.png",
+        "clip_score": 0.2976
+      },
+      {
+        "caption": "A person holds a smartphone taking a picture of a bottle and glasses on the table",
+        "gen_file": "complex_018.png",
+        "clip_score": 0.2969
+      },
+      {
+        "caption": "A styrofoam plate with shredded chicken and a dish of broccoli with cheese sauce.",
+        "gen_file": "complex_019.png",
+        "clip_score": 0.3022
+      },
+      {
+        "caption": "A few baskets of food, including a pizza, some vegetables and dip, and a sandwich",
+        "gen_file": "complex_020.png",
+        "clip_score": 0.2764
+      },
+      {
+        "caption": "Bread in a paper bag on top of french fries in paper container with a drink on the side.",
+        "gen_file": "complex_021.png",
+        "clip_score": 0.3408
+      },
+      {
+        "caption": "A person holding a cell phone with multiple images of their hand holding the phone.",
+        "gen_file": "complex_022.png",
+        "clip_score": 0.2864
+      },
+      {
+        "caption": "A group of pictures featuring different scenes of baked goods sitting on tables.",
+        "gen_file": "complex_023.png",
+        "clip_score": 0.3279
+      },
+      {
+        "caption": "Several pieces of bread sitting on a grill with a person putting vegetables on top of them.",
+        "gen_file": "complex_024.png",
+        "clip_score": 0.333
+      },
+      {
+        "caption": "Two apples, a bowl of food with berries and a pitcher and spoon on a purple place mat.",
+        "gen_file": "complex_025.png",
+        "clip_score": 0.3406
+      },
+      {
+        "caption": "A crowded table has a plate containing a burger with sauce and side of vegetables.",
+        "gen_file": "complex_026.png",
+        "clip_score": 0.314
+      },
+      {
+        "caption": "One person is eating chilli and a grilled cheese and the other is having a sandwich and fries.",
+        "gen_file": "complex_027.png",
+        "clip_score": 0.2556
+      },
+      {
+        "caption": "Cars waiting at a red traffic light with a dome shaped building in the distance.",
+        "gen_file": "complex_028.png",
+        "clip_score": 0.3083
+      },
+      {
+        "caption": "people ride their motorcycles beside some cars, passing by an empty street with stores and apartment buildings",
+        "gen_file": "complex_029.png",
+        "clip_score": 0.2727
+      },
+      {
+        "caption": "Two men standing next to one another, and both are smiling and wearing neckties.",
+        "gen_file": "complex_030.png",
+        "clip_score": 0.3108
+      },
+      {
+        "caption": "A player running the bases of a base ball game while an opposing player goes for the ball.",
+        "gen_file": "complex_031.png",
+        "clip_score": 0.3191
+      },
+      {
+        "caption": "A baseball game is going with children playing a runner is about to hit the base.",
+        "gen_file": "complex_032.png",
+        "clip_score": 0.3357
+      },
+      {
+        "caption": "Several food trucks parked in an area that has tables and some chairs next to it.",
+        "gen_file": "complex_033.png",
+        "clip_score": 0.3091
+      },
+      {
+        "caption": "a little boy kneeling down while attempting to stick his hand in a bowl of water",
+        "gen_file": "complex_034.png",
+        "clip_score": 0.354
+      },
+      {
+        "caption": "Salmon-colored clock tower with Florida architectural features including a window's walk.",
+        "gen_file": "complex_035.png",
+        "clip_score": 0.3435
+      },
+      {
+        "caption": "A man at bat waiting for a pitch with a catcher and umpire behind him and players from the opposing team in the dugout.",
+        "gen_file": "complex_036.png",
+        "clip_score": 0.2786
+      },
+      {
+        "caption": "A young child with no shirt on, in a bathroom and brushing their teeth with a green colored toothbrush.",
+        "gen_file": "complex_037.png",
+        "clip_score": 0.3513
+      },
+      {
+        "caption": "A waitress and restaurant owner showing off a pizza in front of a mural of Venice.",
+        "gen_file": "complex_038.png",
+        "clip_score": 0.3623
+      },
+      {
+        "caption": "A man with a tennis racket is in the air with legs spread apart next to a tennis ball in motion.",
+        "gen_file": "complex_039.png",
+        "clip_score": 0.2944
+      },
+      {
+        "caption": "A large, blue semi truck drives down a city street with a line of vehicles behind it.",
+        "gen_file": "complex_040.png",
+        "clip_score": 0.2698
+      },
+      {
+        "caption": "Two men wearing bright yellow construction jackets eating and standing under an orange umbrella",
+        "gen_file": "complex_041.png",
+        "clip_score": 0.3457
+      },
+      {
+        "caption": "A table with pies being made and a person standing near a wall with pots and pans hanging on the wall.",
+        "gen_file": "complex_042.png",
+        "clip_score": 0.2876
+      },
+      {
+        "caption": "Image of the front of a house next to an image of a woman holding a small table.",
+        "gen_file": "complex_043.png",
+        "clip_score": 0.302
+      },
+      {
+        "caption": "City street with focal view to building with maroon steeple and clocks under a standing platform.",
+        "gen_file": "complex_044.png",
+        "clip_score": 0.3057
+      },
+      {
+        "caption": "A grass yard area that has several open umbrellas laid on the grass and various people around the roadway area.",
+        "gen_file": "complex_045.png",
+        "clip_score": 0.3315
+      },
+      {
+        "caption": "Several giraffes stand with their necks stretched over a barrier toward a small crowd of people.",
+        "gen_file": "complex_046.png",
+        "clip_score": 0.3333
+      },
+      {
+        "caption": "A toaster has been decorated with other kitchen items and googly eyes to look like a person.",
+        "gen_file": "complex_047.png",
+        "clip_score": 0.3486
+      },
+      {
+        "caption": "A couple of young adults walking along a little path carrying a couple umbrellas.",
+        "gen_file": "complex_048.png",
+        "clip_score": 0.3184
+      },
+      {
+        "caption": "A bunch of people are holding kites and the wind is blowing them on a grassy field.",
+        "gen_file": "complex_049.png",
+        "clip_score": 0.2869
+      }
+    ]
+  },
+  "delta": 0.005,
+  "delta_pct": 1.63
+}

@@ -1,0 +1,6 @@
+2026-05-01 23:16:55 [INFO] Log file: logs/plot_results_20260501_231655.log
+2026-05-01 23:16:55 [INFO] 加载成功: SDXL-100 - FID: 192.84, CLIP: 0.3110
+2026-05-01 23:16:55 [INFO] 加载成功: LoRA-100 - FID: 188.25, CLIP: 0.3126
+2026-05-01 23:16:55 [INFO] 加载成功: SDXL-200 - FID: 156.15, CLIP: 0.3117
+2026-05-01 23:16:55 [INFO] 加载成功: LoRA-200 - FID: 154.19, CLIP: 0.3137
+2026-05-01 23:16:57 [INFO] 已保存: /data/coding/figures/performance_radar.png

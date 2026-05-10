@@ -1,0 +1,32 @@
+2026-04-19 17:09:07 [INFO] Log file: logs/visualize_20260419_170907.log
+2026-04-19 17:09:07 [INFO] ============================================================
+2026-04-19 17:09:07 [INFO] Visualization: Real vs Generated
+2026-04-19 17:09:07 [INFO] ============================================================
+2026-04-19 17:09:07 [INFO] Loaded 200 CLIP scores from evaluation_results_sdxl.json
+2026-04-19 17:09:07 [INFO] Generating 20 comparison page(s) (200 pairs total)...
+2026-04-19 17:09:08 [INFO] Saved: /data/coding/visualization/comparison_00.png
+2026-04-19 17:09:10 [INFO] Saved: /data/coding/visualization/comparison_01.png
+2026-04-19 17:09:12 [INFO] Saved: /data/coding/visualization/comparison_02.png
+2026-04-19 17:09:13 [INFO] Saved: /data/coding/visualization/comparison_03.png
+2026-04-19 17:09:15 [INFO] Saved: /data/coding/visualization/comparison_04.png
+2026-04-19 17:09:16 [INFO] Saved: /data/coding/visualization/comparison_05.png
+2026-04-19 17:09:18 [INFO] Saved: /data/coding/visualization/comparison_06.png
+2026-04-19 17:09:19 [INFO] Saved: /data/coding/visualization/comparison_07.png
+2026-04-19 17:09:21 [INFO] Saved: /data/coding/visualization/comparison_08.png
+2026-04-19 17:09:23 [INFO] Saved: /data/coding/visualization/comparison_09.png
+2026-04-19 17:09:24 [INFO] Saved: /data/coding/visualization/comparison_10.png
+2026-04-19 17:09:26 [INFO] Saved: /data/coding/visualization/comparison_11.png
+2026-04-19 17:09:27 [INFO] Saved: /data/coding/visualization/comparison_12.png
+2026-04-19 17:09:29 [INFO] Saved: /data/coding/visualization/comparison_13.png
+2026-04-19 17:09:31 [INFO] Saved: /data/coding/visualization/comparison_14.png
+2026-04-19 17:09:32 [INFO] Saved: /data/coding/visualization/comparison_15.png
+2026-04-19 17:09:34 [INFO] Saved: /data/coding/visualization/comparison_16.png
+2026-04-19 17:09:35 [INFO] Saved: /data/coding/visualization/comparison_17.png
+2026-04-19 17:09:37 [INFO] Saved: /data/coding/visualization/comparison_18.png
+2026-04-19 17:09:39 [INFO] Saved: /data/coding/visualization/comparison_19.png
+2026-04-19 17:09:39 [INFO] Generating top/bottom chart...
+2026-04-19 17:09:40 [INFO] Saved: /data/coding/visualization/top_bottom.png
+2026-04-19 17:09:40 [INFO] ============================================================
+2026-04-19 17:09:40 [INFO] Done!
+2026-04-19 17:09:40 [INFO] Output directory: /data/coding/visualization
+2026-04-19 17:09:40 [INFO] ============================================================

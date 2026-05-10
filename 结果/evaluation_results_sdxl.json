@@ -1,0 +1,1033 @@
+{
+  "fid": 156.1516,
+  "clip_score_mean": 0.3117,
+  "clip_score_std": 0.0292,
+  "num_samples": 200,
+  "bucket_stats": {
+    "1 object": {
+      "mean": 0.3135,
+      "std": 0.0308,
+      "n": 158
+    },
+    "2 objects": {
+      "mean": 0.3065,
+      "std": 0.0204,
+      "n": 37
+    },
+    "3+ objects": {
+      "mean": 0.294,
+      "std": 0.0206,
+      "n": 5
+    }
+  },
+  "pairs": [
+    {
+      "caption": "A giraffe running across a grass covered field.",
+      "gen_file": "gen_0000.png",
+      "clip_score": 0.3315
+    },
+    {
+      "caption": "Someone is driving a cart near a single engine airplane.",
+      "gen_file": "gen_0001.png",
+      "clip_score": 0.2825
+    },
+    {
+      "caption": "a red and black train is coming down the tracks",
+      "gen_file": "gen_0002.png",
+      "clip_score": 0.3035
+    },
+    {
+      "caption": "a cow walking on a city street near people ",
+      "gen_file": "gen_0003.png",
+      "clip_score": 0.3198
+    },
+    {
+      "caption": "A large yellow dump truck sitting on green lawn.",
+      "gen_file": "gen_0004.png",
+      "clip_score": 0.3291
+    },
+    {
+      "caption": "A street with traffic lights and cars at night.",
+      "gen_file": "gen_0005.png",
+      "clip_score": 0.2678
+    },
+    {
+      "caption": "A fleet of ships docked on a sandy beach.",
+      "gen_file": "gen_0006.png",
+      "clip_score": 0.3127
+    },
+    {
+      "caption": "a pink clock tower rises above a tree line",
+      "gen_file": "gen_0007.png",
+      "clip_score": 0.3403
+    },
+    {
+      "caption": "An empty kitchen in a house with a window in the corner.",
+      "gen_file": "gen_0008.png",
+      "clip_score": 0.2754
+    },
+    {
+      "caption": "A pizza being made within the oven ",
+      "gen_file": "gen_0009.png",
+      "clip_score": 0.2993
+    },
+    {
+      "caption": "A man sitting at a table eating a hamburger and fries.",
+      "gen_file": "gen_0010.png",
+      "clip_score": 0.3079
+    },
+    {
+      "caption": "A bathroom with a tub, sinks, lights and a television.",
+      "gen_file": "gen_0011.png",
+      "clip_score": 0.2812
+    },
+    {
+      "caption": "A man standing next to a bikes and a motorcycle.",
+      "gen_file": "gen_0012.png",
+      "clip_score": 0.2808
+    },
+    {
+      "caption": "Women that are sitting outside on a patio area and smoking cigarettes.",
+      "gen_file": "gen_0013.png",
+      "clip_score": 0.3206
+    },
+    {
+      "caption": "A small white tow truck parked to another small white tow truck.",
+      "gen_file": "gen_0014.png",
+      "clip_score": 0.3079
+    },
+    {
+      "caption": "two cows outside one laying down and the other standing near a building ",
+      "gen_file": "gen_0015.png",
+      "clip_score": 0.2959
+    },
+    {
+      "caption": "A group of friends hanging out in a kitchen together.",
+      "gen_file": "gen_0016.png",
+      "clip_score": 0.2998
+    },
+    {
+      "caption": "THERE IS A GROUP OF PEOPLE SITTING AT A TABLE ",
+      "gen_file": "gen_0017.png",
+      "clip_score": 0.2808
+    },
+    {
+      "caption": "A bathroom with a white toilet and a sink net to a shower.",
+      "gen_file": "gen_0018.png",
+      "clip_score": 0.2856
+    },
+    {
+      "caption": "A microwave oven sitting next to a device near a fence.",
+      "gen_file": "gen_0019.png",
+      "clip_score": 0.3015
+    },
+    {
+      "caption": "Outdoor show with sheep prominent on grass field.",
+      "gen_file": "gen_0020.png",
+      "clip_score": 0.2861
+    },
+    {
+      "caption": "A man standing in front of a TV holding a Wii game controller.",
+      "gen_file": "gen_0021.png",
+      "clip_score": 0.271
+    },
+    {
+      "caption": "A group of young people playing a game of soccer.",
+      "gen_file": "gen_0022.png",
+      "clip_score": 0.3159
+    },
+    {
+      "caption": "A couple of men standing next to train tracks.",
+      "gen_file": "gen_0023.png",
+      "clip_score": 0.3262
+    },
+    {
+      "caption": "A plate of cheese bread next to bread sticks and wine.",
+      "gen_file": "gen_0024.png",
+      "clip_score": 0.3262
+    },
+    {
+      "caption": "A man holds pizza crust in his mouth.",
+      "gen_file": "gen_0025.png",
+      "clip_score": 0.3369
+    },
+    {
+      "caption": "Two green shoes lined up on a bed.",
+      "gen_file": "gen_0026.png",
+      "clip_score": 0.3628
+    },
+    {
+      "caption": "A baseball player bobble head next to two computer monitors on a desk.",
+      "gen_file": "gen_0027.png",
+      "clip_score": 0.3774
+    },
+    {
+      "caption": "A train is making its way down the tracks. ",
+      "gen_file": "gen_0028.png",
+      "clip_score": 0.291
+    },
+    {
+      "caption": "A hand holding a sandwich above a plate.",
+      "gen_file": "gen_0029.png",
+      "clip_score": 0.3289
+    },
+    {
+      "caption": "A man is in his skiing gear, while posing for the camera. ",
+      "gen_file": "gen_0030.png",
+      "clip_score": 0.2971
+    },
+    {
+      "caption": "The man in the business suit wears a striped blue and white tie.",
+      "gen_file": "gen_0031.png",
+      "clip_score": 0.2969
+    },
+    {
+      "caption": "a giraffe eating food from a food dispenser ",
+      "gen_file": "gen_0032.png",
+      "clip_score": 0.3462
+    },
+    {
+      "caption": "PEOPLE WAITING IN LINE TO GET FOOD FROM A FOOD TRUCK",
+      "gen_file": "gen_0033.png",
+      "clip_score": 0.3149
+    },
+    {
+      "caption": "A green stand holding several bananas for sale. ",
+      "gen_file": "gen_0034.png",
+      "clip_score": 0.3567
+    },
+    {
+      "caption": "A man sitting alone on a park bench in a park.",
+      "gen_file": "gen_0035.png",
+      "clip_score": 0.3223
+    },
+    {
+      "caption": "A toilet that is in a bathroom with the lid up.",
+      "gen_file": "gen_0036.png",
+      "clip_score": 0.2612
+    },
+    {
+      "caption": "A young person ridding a horse jumps a gate in a competition.",
+      "gen_file": "gen_0037.png",
+      "clip_score": 0.3022
+    },
+    {
+      "caption": "A group of people that are standing in front of a island.",
+      "gen_file": "gen_0038.png",
+      "clip_score": 0.345
+    },
+    {
+      "caption": "A little league baseball player hits a ball.",
+      "gen_file": "gen_0039.png",
+      "clip_score": 0.3171
+    },
+    {
+      "caption": "A white plate of food tha includes meat and vegetables.",
+      "gen_file": "gen_0040.png",
+      "clip_score": 0.272
+    },
+    {
+      "caption": "Various dishes of food sit in bowls on a table.",
+      "gen_file": "gen_0041.png",
+      "clip_score": 0.2954
+    },
+    {
+      "caption": "A couple of elephants standing on a lush green forest.",
+      "gen_file": "gen_0042.png",
+      "clip_score": 0.3347
+    },
+    {
+      "caption": "A group of giraffe standing next to each other.",
+      "gen_file": "gen_0043.png",
+      "clip_score": 0.3184
+    },
+    {
+      "caption": "A person on a surfboard in the water.",
+      "gen_file": "gen_0044.png",
+      "clip_score": 0.3159
+    },
+    {
+      "caption": "A man in green shirt with cellphone reflecting in a mirror.",
+      "gen_file": "gen_0045.png",
+      "clip_score": 0.3875
+    },
+    {
+      "caption": "A train parked at a train stop next to another train.",
+      "gen_file": "gen_0046.png",
+      "clip_score": 0.2783
+    },
+    {
+      "caption": "a child riding a skate board on a city street ",
+      "gen_file": "gen_0047.png",
+      "clip_score": 0.3213
+    },
+    {
+      "caption": "The plane was flying high near the flag in the air",
+      "gen_file": "gen_0048.png",
+      "clip_score": 0.2964
+    },
+    {
+      "caption": "The painting is of a vase of flowers on a table.",
+      "gen_file": "gen_0049.png",
+      "clip_score": 0.2996
+    },
+    {
+      "caption": "two people in a wooden boat with sails on some water",
+      "gen_file": "gen_0050.png",
+      "clip_score": 0.3193
+    },
+    {
+      "caption": "A wooden wagon with wheels topped with bunches of bananas.",
+      "gen_file": "gen_0051.png",
+      "clip_score": 0.3975
+    },
+    {
+      "caption": "there is a young girl putting food in to a oven",
+      "gen_file": "gen_0052.png",
+      "clip_score": 0.3149
+    },
+    {
+      "caption": "A woman sitting on top of a park bench in a field.",
+      "gen_file": "gen_0053.png",
+      "clip_score": 0.2961
+    },
+    {
+      "caption": "A white sink in a corner underneath a small mirror and light.",
+      "gen_file": "gen_0054.png",
+      "clip_score": 0.292
+    },
+    {
+      "caption": "A grey and white dog sitting in the passenger side of a car.",
+      "gen_file": "gen_0055.png",
+      "clip_score": 0.3335
+    },
+    {
+      "caption": "A crowd of people riding on the back of a red and white boat.",
+      "gen_file": "gen_0056.png",
+      "clip_score": 0.3276
+    },
+    {
+      "caption": "Elephant displayed in window of city building near roadway.",
+      "gen_file": "gen_0057.png",
+      "clip_score": 0.3181
+    },
+    {
+      "caption": "a lady that has a bowl in her hand",
+      "gen_file": "gen_0058.png",
+      "clip_score": 0.2776
+    },
+    {
+      "caption": "a small calf nursing a cow in a pasture",
+      "gen_file": "gen_0059.png",
+      "clip_score": 0.3052
+    },
+    {
+      "caption": "Two tall giraffes graze on bushes in an open field.",
+      "gen_file": "gen_0060.png",
+      "clip_score": 0.3101
+    },
+    {
+      "caption": "A piece of bread with a hot dog in the middle is shown.",
+      "gen_file": "gen_0061.png",
+      "clip_score": 0.2671
+    },
+    {
+      "caption": "Tug boats do a good job handling water emergencies.",
+      "gen_file": "gen_0062.png",
+      "clip_score": 0.3186
+    },
+    {
+      "caption": "A very nice cake dish with some pastries in it.",
+      "gen_file": "gen_0063.png",
+      "clip_score": 0.3022
+    },
+    {
+      "caption": "Belgium waffle loaded with bananas topped with powdered sugar with syrup and more fruit as a garnish.",
+      "gen_file": "gen_0064.png",
+      "clip_score": 0.3091
+    },
+    {
+      "caption": "Two giraffe moving very quickly in the woods.",
+      "gen_file": "gen_0065.png",
+      "clip_score": 0.2971
+    },
+    {
+      "caption": "A person riding a horse in an empty area of dried grass.",
+      "gen_file": "gen_0066.png",
+      "clip_score": 0.314
+    },
+    {
+      "caption": "Baseball player in blue and white uniform swinging at a ball. ",
+      "gen_file": "gen_0067.png",
+      "clip_score": 0.3386
+    },
+    {
+      "caption": "Man sitting at a picnic table using a laptop shaded by an umbrella.",
+      "gen_file": "gen_0068.png",
+      "clip_score": 0.3684
+    },
+    {
+      "caption": "A small dog on a harness laying on top of a sandy beach.",
+      "gen_file": "gen_0069.png",
+      "clip_score": 0.3235
+    },
+    {
+      "caption": "A bathroom with a lot of items near the sink and counter.",
+      "gen_file": "gen_0070.png",
+      "clip_score": 0.2991
+    },
+    {
+      "caption": "A teddy bear and a stuffed monkey sit side by side.",
+      "gen_file": "gen_0071.png",
+      "clip_score": 0.3174
+    },
+    {
+      "caption": "A train that is on a rail over a bridge.",
+      "gen_file": "gen_0072.png",
+      "clip_score": 0.3003
+    },
+    {
+      "caption": "A desktop computer with it's monitor sitting on it's side.",
+      "gen_file": "gen_0073.png",
+      "clip_score": 0.3066
+    },
+    {
+      "caption": "A row of white teddy bears on shelf next to DVDs.",
+      "gen_file": "gen_0074.png",
+      "clip_score": 0.3223
+    },
+    {
+      "caption": "A rusted out train engine sitting next to a green forest.",
+      "gen_file": "gen_0075.png",
+      "clip_score": 0.3237
+    },
+    {
+      "caption": "a couple of sandwiches are on a pan",
+      "gen_file": "gen_0076.png",
+      "clip_score": 0.3049
+    },
+    {
+      "caption": "A man riding a skateboard over a rope.",
+      "gen_file": "gen_0077.png",
+      "clip_score": 0.3059
+    },
+    {
+      "caption": "A yellow and red train traveling down train tracks.",
+      "gen_file": "gen_0078.png",
+      "clip_score": 0.3254
+    },
+    {
+      "caption": "A vase filled  with yellow flowers next to a window.",
+      "gen_file": "gen_0079.png",
+      "clip_score": 0.3386
+    },
+    {
+      "caption": "A piece of luggage is ready to go with cold wear on top for quick usage.",
+      "gen_file": "gen_0080.png",
+      "clip_score": 0.2881
+    },
+    {
+      "caption": "A peeled banana on a table next to an unpeeled banana.",
+      "gen_file": "gen_0081.png",
+      "clip_score": 0.3152
+    },
+    {
+      "caption": "A colorful plane flying over head and telephone wires",
+      "gen_file": "gen_0082.png",
+      "clip_score": 0.3044
+    },
+    {
+      "caption": "A tan utility truck with a blue interior.",
+      "gen_file": "gen_0083.png",
+      "clip_score": 0.2976
+    },
+    {
+      "caption": "rear view mirror reflection showing a dog in the back seat",
+      "gen_file": "gen_0084.png",
+      "clip_score": 0.3171
+    },
+    {
+      "caption": "A pair of bears climb up in a tree.",
+      "gen_file": "gen_0085.png",
+      "clip_score": 0.3425
+    },
+    {
+      "caption": "Computer desk setup with monitor, wireless keyboard, and other electronic devices. ",
+      "gen_file": "gen_0086.png",
+      "clip_score": 0.2673
+    },
+    {
+      "caption": "A cat sitting on top of a banana tree.",
+      "gen_file": "gen_0087.png",
+      "clip_score": 0.3787
+    },
+    {
+      "caption": "A big plane flying low  on a cloudy sky",
+      "gen_file": "gen_0088.png",
+      "clip_score": 0.2529
+    },
+    {
+      "caption": "Guy pedals a bike through a small village.",
+      "gen_file": "gen_0089.png",
+      "clip_score": 0.3049
+    },
+    {
+      "caption": "a picture of a cellphone on a cellphone",
+      "gen_file": "gen_0090.png",
+      "clip_score": 0.2856
+    },
+    {
+      "caption": "A person that is doing a trick in the air.",
+      "gen_file": "gen_0091.png",
+      "clip_score": 0.2764
+    },
+    {
+      "caption": "A woman holding an umbrella while walking in the rain.",
+      "gen_file": "gen_0092.png",
+      "clip_score": 0.3293
+    },
+    {
+      "caption": "A man reaching into a freezer while standing next to a woman in a park.",
+      "gen_file": "gen_0093.png",
+      "clip_score": 0.356
+    },
+    {
+      "caption": "A man is playing tennis, the ball is coming toward him.",
+      "gen_file": "gen_0094.png",
+      "clip_score": 0.2891
+    },
+    {
+      "caption": "A person riding a wave on top of a surfboard.",
+      "gen_file": "gen_0095.png",
+      "clip_score": 0.2842
+    },
+    {
+      "caption": "A fire hydrant and some cars on the side of the street.",
+      "gen_file": "gen_0096.png",
+      "clip_score": 0.2854
+    },
+    {
+      "caption": "A cat sitting in front of a flat screen TV.",
+      "gen_file": "gen_0097.png",
+      "clip_score": 0.3069
+    },
+    {
+      "caption": "A black and white image of a shipyard with some boats. ",
+      "gen_file": "gen_0098.png",
+      "clip_score": 0.3247
+    },
+    {
+      "caption": "A laptop computer sitting on top of a wooden table.",
+      "gen_file": "gen_0099.png",
+      "clip_score": 0.291
+    },
+    {
+      "caption": "A woman holding a Hello Kitty phone on her hands.",
+      "gen_file": "gen_0100.png",
+      "clip_score": 0.3733
+    },
+    {
+      "caption": "A herd of elephants standing on top of a dirt road.",
+      "gen_file": "gen_0101.png",
+      "clip_score": 0.3318
+    },
+    {
+      "caption": "Ivy is growing up the walls of a building.",
+      "gen_file": "gen_0102.png",
+      "clip_score": 0.3147
+    },
+    {
+      "caption": "A man in bowler hat and lab coat by people in a tv frame.",
+      "gen_file": "gen_0103.png",
+      "clip_score": 0.3296
+    },
+    {
+      "caption": "A very tall brick clock tower with a clock on each of it's sides.",
+      "gen_file": "gen_0104.png",
+      "clip_score": 0.3191
+    },
+    {
+      "caption": "Small pizza sits on a plate on a restaurant table. ",
+      "gen_file": "gen_0105.png",
+      "clip_score": 0.2925
+    },
+    {
+      "caption": "a lady that is on some skies on some snow",
+      "gen_file": "gen_0106.png",
+      "clip_score": 0.2896
+    },
+    {
+      "caption": "A dog and cat lying  together on an orange couch. ",
+      "gen_file": "gen_0107.png",
+      "clip_score": 0.3274
+    },
+    {
+      "caption": "A dog wearing a hat standing on some grass.",
+      "gen_file": "gen_0108.png",
+      "clip_score": 0.3411
+    },
+    {
+      "caption": "A security officer using a segway as a footrest",
+      "gen_file": "gen_0109.png",
+      "clip_score": 0.3735
+    },
+    {
+      "caption": "A teddy bear sitting on a blue chair.",
+      "gen_file": "gen_0110.png",
+      "clip_score": 0.3635
+    },
+    {
+      "caption": "A man riding a motorcycle on the side of a road.",
+      "gen_file": "gen_0111.png",
+      "clip_score": 0.2778
+    },
+    {
+      "caption": "A large white kitchen range with gold towels on the front.",
+      "gen_file": "gen_0112.png",
+      "clip_score": 0.3384
+    },
+    {
+      "caption": "Cars and trucks stopped at an intersection at twilight.",
+      "gen_file": "gen_0113.png",
+      "clip_score": 0.2703
+    },
+    {
+      "caption": "A person sitting on a bench in a park.",
+      "gen_file": "gen_0114.png",
+      "clip_score": 0.2954
+    },
+    {
+      "caption": "A wall covered in graffiti next to a sidewalk.",
+      "gen_file": "gen_0115.png",
+      "clip_score": 0.2903
+    },
+    {
+      "caption": "A man riding a wave on top of a white surfboard.",
+      "gen_file": "gen_0116.png",
+      "clip_score": 0.2773
+    },
+    {
+      "caption": "A person sitting at a wooden table holding an electronic device.",
+      "gen_file": "gen_0117.png",
+      "clip_score": 0.2988
+    },
+    {
+      "caption": "Street sign painted on a road that looks like a bicycle. ",
+      "gen_file": "gen_0118.png",
+      "clip_score": 0.3352
+    },
+    {
+      "caption": "A man is skiing in mid jump onto a ramp.",
+      "gen_file": "gen_0119.png",
+      "clip_score": 0.3037
+    },
+    {
+      "caption": "there is a woman laying in a bed using a lap top",
+      "gen_file": "gen_0120.png",
+      "clip_score": 0.2732
+    },
+    {
+      "caption": "The dessert has been split into two halves on the plate.",
+      "gen_file": "gen_0121.png",
+      "clip_score": 0.2686
+    },
+    {
+      "caption": "Three people are playing with a red kick ball.",
+      "gen_file": "gen_0122.png",
+      "clip_score": 0.2664
+    },
+    {
+      "caption": "Young people are flying kites at a park.",
+      "gen_file": "gen_0123.png",
+      "clip_score": 0.2959
+    },
+    {
+      "caption": "Couple on sailboat with dog on open waters.",
+      "gen_file": "gen_0124.png",
+      "clip_score": 0.3518
+    },
+    {
+      "caption": "A man swinging a tennis racket at a tennis ball.",
+      "gen_file": "gen_0125.png",
+      "clip_score": 0.2864
+    },
+    {
+      "caption": "A commercial bathroom stall with empty toilet paper holders.",
+      "gen_file": "gen_0126.png",
+      "clip_score": 0.2808
+    },
+    {
+      "caption": "AN IMAGE OF A FIRED HYDRANT ON THE STREET",
+      "gen_file": "gen_0127.png",
+      "clip_score": 0.3394
+    },
+    {
+      "caption": "The refrigerators are lined up against the wall.",
+      "gen_file": "gen_0128.png",
+      "clip_score": 0.3013
+    },
+    {
+      "caption": "A herd of cows standing on a grass covered hillside.",
+      "gen_file": "gen_0129.png",
+      "clip_score": 0.3582
+    },
+    {
+      "caption": "A baseball player is winding up for the pitch.",
+      "gen_file": "gen_0130.png",
+      "clip_score": 0.2976
+    },
+    {
+      "caption": "Three giraffes standing up in a field eating leaves off of trees.",
+      "gen_file": "gen_0131.png",
+      "clip_score": 0.3235
+    },
+    {
+      "caption": "A herd of black and white cows eating dry grass.",
+      "gen_file": "gen_0132.png",
+      "clip_score": 0.3123
+    },
+    {
+      "caption": "A hot dog with mustard is next to a bottle of soda.",
+      "gen_file": "gen_0133.png",
+      "clip_score": 0.3218
+    },
+    {
+      "caption": "A large white bus sitting in front of a tall building.",
+      "gen_file": "gen_0134.png",
+      "clip_score": 0.3376
+    },
+    {
+      "caption": "A small bed with lots of bottles underneath",
+      "gen_file": "gen_0135.png",
+      "clip_score": 0.3264
+    },
+    {
+      "caption": "A glass bowl filled with oranges on a table.",
+      "gen_file": "gen_0136.png",
+      "clip_score": 0.3699
+    },
+    {
+      "caption": "A very cute cat laying on a rug.",
+      "gen_file": "gen_0137.png",
+      "clip_score": 0.3098
+    },
+    {
+      "caption": "A man with a tennis racket and ball is on a tennis court.",
+      "gen_file": "gen_0138.png",
+      "clip_score": 0.2954
+    },
+    {
+      "caption": "The two young girls are petting the two goats.",
+      "gen_file": "gen_0139.png",
+      "clip_score": 0.3484
+    },
+    {
+      "caption": "A teddy bear in jail clothes posed on top of a trash can.",
+      "gen_file": "gen_0140.png",
+      "clip_score": 0.3955
+    },
+    {
+      "caption": "a yellow and brown fire hydrant on the side of the road",
+      "gen_file": "gen_0141.png",
+      "clip_score": 0.3345
+    },
+    {
+      "caption": "Two women playing with a Frisbee in a field.",
+      "gen_file": "gen_0142.png",
+      "clip_score": 0.3733
+    },
+    {
+      "caption": "A bathroom that has a persons hand holding an object.",
+      "gen_file": "gen_0143.png",
+      "clip_score": 0.2415
+    },
+    {
+      "caption": "a number of giraffes near one another ",
+      "gen_file": "gen_0144.png",
+      "clip_score": 0.3223
+    },
+    {
+      "caption": "Horse in fenced pasture with others grazing on grasses.",
+      "gen_file": "gen_0145.png",
+      "clip_score": 0.302
+    },
+    {
+      "caption": "People crossing a street in front of a taxi and tour bus.",
+      "gen_file": "gen_0146.png",
+      "clip_score": 0.2773
+    },
+    {
+      "caption": "A smart phone, digital camera and mobile phone on display.",
+      "gen_file": "gen_0147.png",
+      "clip_score": 0.2871
+    },
+    {
+      "caption": "A hand with finger on a blender filled with liquid.",
+      "gen_file": "gen_0148.png",
+      "clip_score": 0.2729
+    },
+    {
+      "caption": "A beautiful dessert waiting to be shared by two people",
+      "gen_file": "gen_0149.png",
+      "clip_score": 0.2791
+    },
+    {
+      "caption": "A group of people eating a meal at a table.",
+      "gen_file": "gen_0150.png",
+      "clip_score": 0.2974
+    },
+    {
+      "caption": "A group of people riding horses down a small road.",
+      "gen_file": "gen_0151.png",
+      "clip_score": 0.2871
+    },
+    {
+      "caption": "A man riding a wave on top of a surfboard.",
+      "gen_file": "gen_0152.png",
+      "clip_score": 0.2979
+    },
+    {
+      "caption": "A dog is standing next to a toilet playing with tissue",
+      "gen_file": "gen_0153.png",
+      "clip_score": 0.3503
+    },
+    {
+      "caption": "Image of a street approaching California 138 with stop sign ahead.",
+      "gen_file": "gen_0154.png",
+      "clip_score": 0.2888
+    },
+    {
+      "caption": "Different views of a man who is skateboarding.",
+      "gen_file": "gen_0155.png",
+      "clip_score": 0.3293
+    },
+    {
+      "caption": "A brown desk with a wooden chair in a classroom.",
+      "gen_file": "gen_0156.png",
+      "clip_score": 0.29
+    },
+    {
+      "caption": "A colorful train sits on the tracks in the sunshine.",
+      "gen_file": "gen_0157.png",
+      "clip_score": 0.3513
+    },
+    {
+      "caption": "A white refrigerator and a counter in a room.",
+      "gen_file": "gen_0158.png",
+      "clip_score": 0.3013
+    },
+    {
+      "caption": "A couple of large elephants standing next to a baby elephant.",
+      "gen_file": "gen_0159.png",
+      "clip_score": 0.3071
+    },
+    {
+      "caption": "A man playing Wii on a large flat screen tv ",
+      "gen_file": "gen_0160.png",
+      "clip_score": 0.2881
+    },
+    {
+      "caption": "A man sitting on top of a bench with a newspaper.",
+      "gen_file": "gen_0161.png",
+      "clip_score": 0.3262
+    },
+    {
+      "caption": "a man that is surfing on some water",
+      "gen_file": "gen_0162.png",
+      "clip_score": 0.2908
+    },
+    {
+      "caption": "A person on a motor bike travels around a sharp corner.",
+      "gen_file": "gen_0163.png",
+      "clip_score": 0.2856
+    },
+    {
+      "caption": "a large clock tower structure lit up in the early night sky",
+      "gen_file": "gen_0164.png",
+      "clip_score": 0.3196
+    },
+    {
+      "caption": "A double-decker bus is parked in a large field.",
+      "gen_file": "gen_0165.png",
+      "clip_score": 0.345
+    },
+    {
+      "caption": "A yellow commuter bus leaving a bus stop at sunset",
+      "gen_file": "gen_0166.png",
+      "clip_score": 0.3271
+    },
+    {
+      "caption": "A child holding chocolate donut with both hands.",
+      "gen_file": "gen_0167.png",
+      "clip_score": 0.3325
+    },
+    {
+      "caption": "Little boys playing on a baseball field in baseball uniforms. ",
+      "gen_file": "gen_0168.png",
+      "clip_score": 0.3225
+    },
+    {
+      "caption": "A group of animals standing on top of a grass covered field.",
+      "gen_file": "gen_0169.png",
+      "clip_score": 0.311
+    },
+    {
+      "caption": "A pair of shoes flips over a skateboard on a road. ",
+      "gen_file": "gen_0170.png",
+      "clip_score": 0.3093
+    },
+    {
+      "caption": "The ingredients are on the kitchen counter next to the blender.",
+      "gen_file": "gen_0171.png",
+      "clip_score": 0.2739
+    },
+    {
+      "caption": "a couple of people sitting around a table ",
+      "gen_file": "gen_0172.png",
+      "clip_score": 0.2734
+    },
+    {
+      "caption": "A table topped with three trays filled with cakes and desserts.",
+      "gen_file": "gen_0173.png",
+      "clip_score": 0.3096
+    },
+    {
+      "caption": "an image of a cat sitting on top of the desk area",
+      "gen_file": "gen_0174.png",
+      "clip_score": 0.2942
+    },
+    {
+      "caption": "Closeup of a decorative gold and grey clock.",
+      "gen_file": "gen_0175.png",
+      "clip_score": 0.3228
+    },
+    {
+      "caption": "A man is riding a horse in an open field.",
+      "gen_file": "gen_0176.png",
+      "clip_score": 0.3027
+    },
+    {
+      "caption": "A ballplayer on deck practicing for his turn at bat",
+      "gen_file": "gen_0177.png",
+      "clip_score": 0.2781
+    },
+    {
+      "caption": "two people riding surf boards on a wave",
+      "gen_file": "gen_0178.png",
+      "clip_score": 0.3008
+    },
+    {
+      "caption": "A person on skateboard skating on the pavement.",
+      "gen_file": "gen_0179.png",
+      "clip_score": 0.2922
+    },
+    {
+      "caption": "A man and his surfboard survey a stormy sea",
+      "gen_file": "gen_0180.png",
+      "clip_score": 0.3208
+    },
+    {
+      "caption": "A phone mounted to a wall next to a doorway.",
+      "gen_file": "gen_0181.png",
+      "clip_score": 0.3167
+    },
+    {
+      "caption": "Two tennis players shaking hands on the court ",
+      "gen_file": "gen_0182.png",
+      "clip_score": 0.3201
+    },
+    {
+      "caption": "A white statue holding open a newspaper while sitting on a bench.",
+      "gen_file": "gen_0183.png",
+      "clip_score": 0.3794
+    },
+    {
+      "caption": "The cat is laying down squashing one side of its face.",
+      "gen_file": "gen_0184.png",
+      "clip_score": 0.2585
+    },
+    {
+      "caption": "A herd of elephants walking down a river with people riding on their backs.",
+      "gen_file": "gen_0185.png",
+      "clip_score": 0.3347
+    },
+    {
+      "caption": "A toilet and bathtub in a dark room with abnormal plumbing.",
+      "gen_file": "gen_0186.png",
+      "clip_score": 0.281
+    },
+    {
+      "caption": "A woman standing next to a young man near a pile of fruit.",
+      "gen_file": "gen_0187.png",
+      "clip_score": 0.3613
+    },
+    {
+      "caption": "A laptop computer sitting on a desk next to a desktop monitor.",
+      "gen_file": "gen_0188.png",
+      "clip_score": 0.2942
+    },
+    {
+      "caption": "a building that has a small clock at top",
+      "gen_file": "gen_0189.png",
+      "clip_score": 0.2469
+    },
+    {
+      "caption": "A young girl watches a laptop on a bed. ",
+      "gen_file": "gen_0190.png",
+      "clip_score": 0.3398
+    },
+    {
+      "caption": "A black and white cow stands in a paddock with firewood in the background.",
+      "gen_file": "gen_0191.png",
+      "clip_score": 0.3425
+    },
+    {
+      "caption": "A baseball player holding a baseball bat is getting filmed by a camera man.",
+      "gen_file": "gen_0192.png",
+      "clip_score": 0.3416
+    },
+    {
+      "caption": "A blue lighted bridge over water at night.",
+      "gen_file": "gen_0193.png",
+      "clip_score": 0.3567
+    },
+    {
+      "caption": "An older picture of a large kitchen with white appliances.",
+      "gen_file": "gen_0194.png",
+      "clip_score": 0.3052
+    },
+    {
+      "caption": "A white kitchen with stove, sink, and refrigerator.",
+      "gen_file": "gen_0195.png",
+      "clip_score": 0.3098
+    },
+    {
+      "caption": "a plate with bacon, eggs and hamburger topped with bananas",
+      "gen_file": "gen_0196.png",
+      "clip_score": 0.3247
+    },
+    {
+      "caption": "A train traveling down tracks next to a  brick building.",
+      "gen_file": "gen_0197.png",
+      "clip_score": 0.3174
+    },
+    {
+      "caption": "A large jetliner sitting on top of an airport runway.",
+      "gen_file": "gen_0198.png",
+      "clip_score": 0.2727
+    },
+    {
+      "caption": "a person wearing a suit and tie next to a couch",
+      "gen_file": "gen_0199.png",
+      "clip_score": 0.3157
+    }
+  ],
+  "config": {
+    "gen_dir": "/data/coding/generated_images_sdxl",
+    "real_dir": "/data/coding/real_images",
+    "clip_model": "ViT-B-32",
+    "clip_pretrained": "openai",
+    "fid_dims": 2048,
+    "device": "cuda"
+  }
+}
