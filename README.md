@@ -24,6 +24,7 @@ CLIP/
 │   ├── evaluate_lora.py             # LoRA评估入口
 │   ├── text2img_evaluate.py         # FID/CLIP评估脚本
 │   ├── prepare_lora_dataset.py      # 数据集准备脚本
+│   ├── download_datasets.py         # 自动下载COCO数据集和预训练模型
 │   ├── compare_100_vs_200.py        # 样本量对比分析
 │   ├── plot_results.py              # 结果可视化图表
 │   ├── text2img_complex_compare.py  # 复杂度对比实验
@@ -62,6 +63,13 @@ pip install xformers
 ```
 
 ## 🚀 使用指南
+
+### 0. 自动下载数据集和预训练模型
+> 项目中的 `data/` 和 `models/` 目录已被 `.gitignore` 忽略，无需上传到GitHub，可通过以下命令自动下载所有必需资源：
+```bash
+python src/download_datasets.py
+```
+自动下载COCO2017数据集、标注文件和FID评估所需的预训练模型，支持断点续传和完整性校验。
 
 ### 1. 数据集准备
 ```bash
